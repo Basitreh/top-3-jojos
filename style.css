@@ -10,3 +10,12 @@ p{
     color: mediumblue; 
     text-align: justify;
 }
+img {
+    width: 460px;
+    height: 280px;
+
+}
+h2 {
+    background: gray;
+    text-align: center;
+}
