@@ -1,0 +1,12 @@
+body{background-color: aquamarine;}
+
+h1 {
+    color: pink;
+    background: green;
+    text-align: center;
+}
+p{
+    background: orange;
+    color: mediumblue; 
+    text-align: justify;
+}
